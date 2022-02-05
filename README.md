@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hritesh-Maikap
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on any relevant pyhton project
+- 💞️ I’m looking to collaborate on any relevant python project
 - 📫 How to reach me ...
 
 <!---
